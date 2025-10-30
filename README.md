@@ -13,3 +13,69 @@ This project is designed to demonstrate excel skills and  data analysts to explo
 2.Key Performance Indicators
 
 3.Chart Requirements
+
+# Project Structure
+
+## Data cleaning
+
+In the data set, data cleaning was performed by replacing “LF” to low fat  and ”REG” to regular. This step ensured uniform data representation and more accurate analysis during the visualization process.
+
+## key performance indicator
+
+1 Total sales
+
+2 Average sale
+
+3 Number of items
+
+4 Average rating
+
+## Chart requirements
+
+1. Total Sales by Fat Content
+
+Objective: Examine how fat content influences total sales.
+
+Chart Type: Donut Chart.
+
+2. Total Sales by Item Type
+
+Objective: Identify the performance of various item types based on total sales.
+
+Chart Type: Bar Chart.
+
+3. Fat Content by Outlet for Total Sales
+
+Objective: Compare total sales across outlets segmented by fat content.
+
+Chart Type: Stacked Column Chart.
+
+4. Total Sales by Outlet Establishment Type
+
+Objective: Assess the impact of outlet establishment type on total sales.
+
+Chart Type: Line Chart.
+
+5. Sales by Outlet Size
+
+Objective: Analyze the relationship between outlet size and total sales performance.
+
+Chart Type: Donut/Pie Chart.
+
+6. Sales by Outlet Location
+
+Objective: Examine the geographic distribution of sales across various outlet locations.
+
+Chart Type: Funnel Map.
+
+7. All Metrics by Outlet Type
+
+Objective: Present a consolidated view of key metrics — Total Sales, Average Sales, Number of Items, and Average Rating — for each outlet type.
+
+![alt text]
+
+
+
+
+Chart Type: Matrix Card.
+
